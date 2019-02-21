@@ -1,0 +1,2 @@
+# DiscWeather
+Discord weather webhook
